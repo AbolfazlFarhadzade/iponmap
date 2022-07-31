@@ -77,4 +77,4 @@ traceroute -n google.com | iponmap -t
 **escape**, **q** , **Ctrl-c**
 
 ## Bugs/Issues/Feature requests
-Create new issue [here](https://github.com/nogizhopaboroda/iponmap/issues)
+Create new issue [here](https://github.com/AbolfazlFarhadzade/iponmap/)
